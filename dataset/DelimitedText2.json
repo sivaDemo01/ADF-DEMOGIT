@@ -10,6 +10,7 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobFSLocation",
+				"fileName": "orders.csv",
 				"folderPath": "input",
 				"fileSystem": "adfbronze"
 			},
